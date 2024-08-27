@@ -2719,7 +2719,7 @@ MonoBehaviour:
   _editor: {fileID: 856629131}
   _width: 2
   _height: 1
-  _color: {r: 1, g: 0.29874206, b: 0.29874206, a: 0.19607843}
+  _color: {r: 1, g: 0.29874206, b: 0.29874206, a: 1}
   _borderColor: {r: 0, g: 0, b: 0, a: 1}
   _radiusTopLeft: 0.3
   _radiusTopRight: 0.3
@@ -7443,7 +7443,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2119538679}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.03}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8541,10 +8541,10 @@ PrefabInstance:
       addedObject: {fileID: 5824888959866456951}
     - targetCorrespondingSourceObject: {fileID: 8149640132073612291, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 5824888959592009251}
+      addedObject: {fileID: 5824888960363358224}
     - targetCorrespondingSourceObject: {fileID: 8149640132073612291, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 5824888960363358224}
+      addedObject: {fileID: 5824888959592009251}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 5919106134362994299, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       insertIndex: -1
@@ -8583,7 +8583,7 @@ MonoBehaviour:
   _editor: {fileID: 5824888959592009248}
   _width: 2
   _height: 1
-  _color: {r: 0.009798734, g: 0.25140512, b: 0.71907747, a: 0.19607843}
+  _color: {r: 0.009798734, g: 0.25140512, b: 0.71907747, a: 1}
   _borderColor: {r: 0, g: 0, b: 0, a: 1}
   _radiusTopLeft: 0.3
   _radiusTopRight: 0.3
@@ -9068,7 +9068,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5824888960363358225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.03}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children: []
